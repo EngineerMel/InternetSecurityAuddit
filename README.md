@@ -26,10 +26,5 @@ Perform an internal audit by completing a controls and compliance checklist.
 
 ![image alt](https://github.com/EngineerMel/InternetSecurityAuddit/blob/c20497b83fe3e525423512e42cd4576cda9f6a7d/Image%203-20-25%20at%2012.28%20PM.jpeg)
 
-![image alt](
+![image alt](https://github.com/EngineerMel/InternetSecurityAuddit/blob/772dbb3949a00f6d7e7f5c629b4bff15921dfca0/Image%203-20-25%20at%2012.29%20PM.jpeg)
 
-
-
-Example below.
-
-*Ref 1: Network Diagram*
