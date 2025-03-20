@@ -21,8 +21,10 @@ Perform an internal audit by completing a controls and compliance checklist.
 - IT Asset Management Tools
 - Documentation & Reporting Tools
 
-## Steps
-<img src="/Users/ramelhaines/Desktop/BotiumToys.pdf" alt="Description" width="500">
+## Project Details
+![image alt](https://github.com/EngineerMel/InternetSecurityAuddit/blob/0b68485f35233f1cfb3eecc17056189eb58a6788/Image%203-20-25%20at%2011.55%20AM.jpeg)
+
+![image alt](
 
 
 Example below.
