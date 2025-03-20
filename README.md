@@ -24,7 +24,10 @@ Perform an internal audit by completing a controls and compliance checklist.
 ## Project Details
 ![image alt](https://github.com/EngineerMel/InternetSecurityAuddit/blob/0b68485f35233f1cfb3eecc17056189eb58a6788/Image%203-20-25%20at%2011.55%20AM.jpeg)
 
+![image alt](https://github.com/EngineerMel/InternetSecurityAuddit/blob/c20497b83fe3e525423512e42cd4576cda9f6a7d/Image%203-20-25%20at%2012.28%20PM.jpeg)
+
 ![image alt](
+
 
 
 Example below.
